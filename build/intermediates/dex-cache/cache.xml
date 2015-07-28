@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ma\malaria-app-android\build\intermediates\exploded-aar\ma\ViewPagerIndicator\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="be3ad858ee20692f432a690d31f79cb74a81ee97">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\classes-5e0d8eb24f6463d7903100563865f33ef3008f95.jar" />
+    </item>
+    <item
+        jar="D:\ma\malaria-app-android\libs\GraphView-3.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ffc41c72432299f41689c8f707d0d89254d59d5">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\GraphView-3.1.2-bbbd868cdfffd4855e90d11532731cb16cb9e634.jar" />
+    </item>
+    <item
+        jar="D:\ma\malaria-app-android\libs\volleylib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8f5b9114ebe0f76de7fbf55e950540959ce4ff8">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\volleylib-798a407c31adb3aa9dab9f154e2ebb20582176c3.jar" />
+    </item>
+    <item
+        jar="D:\ma\malaria-app-android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-88d426c0dbf5ad9b8b08926718a6b71c7a8a7728.jar" />
+    </item>
+    <item
+        jar="D:\ma\malaria-app-android\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\classes-8c12d7f8c4a755ec6c56803f7987c37b512d7851.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\ma\malaria-app-android\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-87f5a75e1de9f212162c85b163eaa9811670bbdf.jar" />
+    </item>
+
+</items>
